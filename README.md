@@ -1,0 +1,2 @@
+This is a Java Program that generates random number between a specified range where the player is prompt to guess a number and a feedback is given whether the number is too high or too low. There are only limited number of attempts to guess the number. If the player succeed to guess the number correctly then a Wining message would be displayed. 
+The player is also given a replay chance to play the game whether it is a win or lose.
